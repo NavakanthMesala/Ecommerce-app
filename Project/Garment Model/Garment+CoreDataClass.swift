@@ -6,10 +6,12 @@
 //
 //
 
-import Foundation
+
 import CoreData
+import UIKit
 
 @objc(Garment)
 public class Garment: NSManagedObject {
 
 }
+	
